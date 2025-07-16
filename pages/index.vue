@@ -15,10 +15,7 @@ useHead({
 			content:
 				'Jira, project management, agile software, bug tracking, kanban, scrum, software development, Atlassian, agile tools, team collaboration',
 		},
-		{
-			name: 'author',
-			content: 'Atlassian',
-		},
+		{ name: 'author', content: 'Atlassian' },
 		{
 			property: 'og:title',
 			content: 'Jira Software – Agile Project Management Tool',
@@ -28,23 +25,14 @@ useHead({
 			content:
 				'Plan, track, and manage your agile and software development projects with Jira Software by Atlassian.',
 		},
-		{
-			property: 'og:type',
-			content: 'website',
-		},
-		{
-			property: 'og:url',
-			content: 'https://jira-clone-amber.vercel.app',
-		},
+		{ property: 'og:type', content: 'website' },
+		{ property: 'og:url', content: 'https://jira-clone-amber.vercel.app' },
 		{
 			property: 'og:image',
 			content:
 				'https://0evi7lr5v8.ufs.sh/f/LN78d9BJu8QkLlO63HBJu8Qk7iTYGEaxnedtbjmh9PlUOW0g',
 		},
-		{
-			name: 'twitter:card',
-			content: 'summary_large_image',
-		},
+		{ name: 'twitter:card', content: 'summary_large_image' },
 		{
 			name: 'twitter:title',
 			content: 'Jira Software – Agile Project Management Tool',
@@ -56,7 +44,8 @@ useHead({
 		},
 		{
 			name: 'twitter:image',
-			content: 'https://0evi7lr5v8.ufs.sh/f/LN78d9BJu8QkLlO63HBJu8Qk7iTYGEaxnedtbjmh9PlUOW0g',
+			content:
+				'https://0evi7lr5v8.ufs.sh/f/LN78d9BJu8QkLlO63HBJu8Qk7iTYGEaxnedtbjmh9PlUOW0g',
 		},
 	],
 })
